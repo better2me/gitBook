@@ -1,0 +1,8 @@
+{
+    "plugins": ["back-to-top-button", "code"],
+    "pluginsConfig": {
+    	"code": {
+        "copyButtons": false
+      }
+    }
+}
